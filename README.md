@@ -1,20 +1,17 @@
-# 👋 Hi, I'm Yuktha Sri 🌟  
+# 👋 Hi, I'm Yuktha Sri Nunna 🌟  
 💻 Cloud Developer | Frontend Enthusiast | Problem Solver  
 
----
-
-## 🚀 About Me  
-- 🌱 Exploring **Cloud Infrastructure, Networking, and Scalable Architectures**  
-- 💡 Passionate about building **innovative, reliable, and impactful solutions**  
-- 🤝 Open to collaborate on **Internship Opportunities & Real-world Projects**  
-- 📧 Reach me at: **[Your Email Here]**  
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome%20to%20My%20Profile!&fontAlign=50&fontAlignY=40&color=gradient&fontColor=ffffff&fontSize=40&desc=Cloud%20Developer%20%7C%20Problem%20Solver&descAlignY=70&descAlign=50)
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YukthaSri-05&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YukthaSri-05&layout=compact&theme=tokyonight)  
+## 🚀 A Bit About Me  
+- ☁ Exploring the *AWS Cloud world* one service at a time  
+- 🌱 On a journey to master *scalable cloud solutions & networking*  
+- 🎨 Interested in blending *frontend development* with cloud technologies  
+- 🤝 Always open to *teamwork, internships, and exciting projects*  
+- 📧 Contact: *yukthasrinunna@gmail.com*  
+- ✨ Motto: "Keep learning, keep building, keep growing."  
 
 ---
 
@@ -25,7 +22,7 @@
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/yukthasrinunna)  
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yuktha_sri_05/)  
 [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YukthaSri_05)  
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/yukthasrinunna)  
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/yukthasrinunna)
 
 ---
 
@@ -48,7 +45,14 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 ### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+  
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YukthaSri-05&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YukthaSri-05&layout=compact&theme=tokyonight)  
 
 ---
 
