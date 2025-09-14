@@ -58,8 +58,10 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YukthaSri-05&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YukthaSri-05&layout=compact&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YukthaSri-05&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukthaSri-05&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
