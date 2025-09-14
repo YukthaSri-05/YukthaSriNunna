@@ -63,6 +63,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukthaSri-05&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YukthaSri-05&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
+
 ---
 
 ✨ Thanks for visiting my profile! Let’s build something amazing together 🚀
