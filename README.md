@@ -1,7 +1,12 @@
+<!-- Centered Intro -->
+<div align="center">
+  
 # 👋 Hi, I'm Yuktha Sri Nunna 🌟  
 💻 Cloud Developer | Frontend Enthusiast | Problem Solver  
 
 ![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome%20to%20My%20Profile!&fontAlign=50&fontAlignY=40&color=gradient&fontColor=ffffff&fontSize=40&desc=Cloud%20Developer%20%7C%20Problem%20Solver&descAlignY=70&descAlign=50)
+
+</div>
 
 ---
 
@@ -17,12 +22,14 @@
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuktha-sri-nunna-8ab671302/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YukthaSri-05)  
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/yukthasrinunna)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yuktha_sri_05/)  
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YukthaSri_05)  
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/yukthasrinunna)
+<p align="center">
+<a href="https://www.linkedin.com/in/yuktha-sri-nunna-8ab671302/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/YukthaSri-05"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.hackerrank.com/profile/yukthasrinunna"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+<a href="https://leetcode.com/u/Yuktha_sri_05/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+<a href="https://codeforces.com/profile/YukthaSri_05"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+<a href="https://www.codechef.com/users/yukthasrinunna"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"></a>
+</p>
 
 ---
 
