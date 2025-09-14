@@ -1,10 +1,10 @@
 <!-- Centered Intro -->
 <div align="center">
   
-# 👋 Hi, I'm Yuktha Sri Nunna 🌟  
-💻 Cloud Developer | Frontend Enthusiast | Problem Solver  
+# <span style="font-size:40px;">👋 Hi, I'm Yuktha Sri Nunna 🌟</span>  
+<span style="font-size:22px;">💻 Cloud Developer | Frontend Enthusiast | Problem Solver</span>  
 
-![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome%20to%20My%20Profile!&fontAlign=50&fontAlignY=40&color=gradient&fontColor=ffffff&fontSize=40&desc=Cloud%20Developer%20%7C%20Problem%20Solver&descAlignY=70&descAlign=50)
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome%20to%20My%20Profile!&fontAlign=50&fontAlignY=40&color=gradient&fontColor=ffffff&fontSize=40)
 
 </div>
 
